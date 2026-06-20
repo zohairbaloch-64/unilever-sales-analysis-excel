@@ -160,15 +160,17 @@ Evaluates customer purchasing behavior and identifies key revenue-generating cus
 
 ### Sales Performance Dashboard
 
-![Dashboard Preview](Dashbords/Sales Analysis dashbord.png)
+![Dashboard Preview](Dashbords/Sales%20Analysis%20dashbord.png)
+
 
 ### Product Performance Dashboard
 
-![Dashboard Preview](Dashbords/product Analysis dashbord.png)
+![Dashboard Preview](Dashbords/product%20Analysis%20dashbord.png)
 
 ### Customer Analysis Dashboard
 
-![Dashboard Preview](Dashbords/Customer Analysis Dashbord.png)
+![Dashboard Preview](Dashbords/Customer%20Analysis%20Dashboard.png)
+
 
 ---
 
