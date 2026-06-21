@@ -37,7 +37,7 @@ The project is divided into three separate dashboards:
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 The dataset contains one week of Unilever sales transactions with the following fields:
 
@@ -62,7 +62,7 @@ The dataset contains one week of Unilever sales transactions with the following 
 
 ---
 
-# 📈 Dashboard 1: Sales Performance Dashboard
+#  Dashboard 1: Sales Performance Dashboard
 
 ### KPIs
 
@@ -84,7 +84,7 @@ Provides an overall view of sales performance and highlights revenue trends acro
 
 ---
 
-# 🛍️ Dashboard 2: Product Performance Dashboard
+#  Dashboard 2: Product Performance Dashboard
 
 ### KPIs
 
@@ -106,7 +106,7 @@ Analyzes product performance and identifies high-performing products and brands.
 
 ---
 
-# 👥 Dashboard 3: Customer Analysis Dashboard
+#  Dashboard 3: Customer Analysis Dashboard
 
 ### KPIs
 
@@ -128,7 +128,7 @@ Evaluates customer purchasing behavior and identifies key revenue-generating cus
 
 ---
 
-## 📊 Key Business Insights
+##  Key Business Insights
 
 - Identified top-performing products and brands.
 - Analyzed revenue contribution across different channels.
@@ -138,7 +138,7 @@ Evaluates customer purchasing behavior and identifies key revenue-generating cus
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 ├── Excel Files
@@ -156,7 +156,7 @@ Evaluates customer purchasing behavior and identifies key revenue-generating cus
 
 ---
 
-## 📷 Dashboard Screenshots
+##  Dashboard Screenshots
 
 ### Sales Performance Dashboard
 
@@ -174,7 +174,7 @@ Evaluates customer purchasing behavior and identifies key revenue-generating cus
 
 ---
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 - Excel Dashboard Development
 - Business Analysis
@@ -188,7 +188,7 @@ Evaluates customer purchasing behavior and identifies key revenue-generating cus
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Zohair Baloch**
 
