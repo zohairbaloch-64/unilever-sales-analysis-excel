@@ -1,6 +1,6 @@
 # 📊 Unilever Sales Analysis Dashboard (Excel)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an interactive sales analysis solution built in Microsoft Excel using one week of Unilever sales data. The objective was to analyze sales performance, product performance, and customer behavior through dynamic dashboards, KPI cards, Pivot Tables, Pivot Charts, and Slicers.
 
@@ -12,7 +12,7 @@ The project is divided into three separate dashboards:
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Monitor overall sales performance
 - Identify top-performing products and brands
@@ -22,7 +22,7 @@ The project is divided into three separate dashboards:
 
 ---
 
-## 🛠️ Tools & Techniques Used
+##  Tools & Techniques Used
 
 ### Microsoft Excel
 
